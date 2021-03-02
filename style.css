@@ -5,18 +5,18 @@
 }
 
 #container {
-    margin: 30px;
+    margin: 35px;
     display: flex;
 }
 
 body {
-    background-color: #6c757d;
-    font-family: 'Open Sans', sans-serif;
+    background-color: #e1e6ed;
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 #container-left {
     width: 20%;
-    background-color: lightgrey;
+    background-color: #f0f4f7;;
     display: flex;
     flex-direction: column;
     align-content: center;
@@ -171,10 +171,6 @@ input {
     height: 30px;
     padding: 15px;
     border: 0.3px solid grey;
-}
-
-input[type="text"]{
-border: 1px solid lightgrey;
 }
 
 .about-me {
